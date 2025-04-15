@@ -42,6 +42,6 @@ ORDER BY Total_transaction DESC
 ```
 dan lain - lain
 
-##📎 Sumber Data
+## 📎 Sumber Data
 
 Data diambil dari dataset publik di Kaggle https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025.
